@@ -1,4 +1,4 @@
-# Simple React Blog
+# Simple React Blog (GraphQL)
 ![Simple React Blog](https://cosmicjs.com/uploads/76875fe0-af74-11e7-b864-313f959a776e-react-blog-screenshot.png)
 
 ### [View Demo](https://cosmicjs.com/apps/simple-react-blog/demo)
